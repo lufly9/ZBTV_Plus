@@ -1,7 +1,7 @@
 name: IPTV
 on:
   schedule:
-    - cron: '34 23 * * *'
+    - cron: '00 01 * * *'
   workflow_dispatch:
 
 jobs:
