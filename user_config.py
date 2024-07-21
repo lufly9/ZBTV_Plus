@@ -16,7 +16,7 @@ search_dict = {
     "四川": "https://raw.githubusercontent.com/lufly9/Y/main/四川电信订阅.txt",
 }
 # 在http://tonkiang.us网站上搜索的源的页数
-search_page_num = 2
+search_page_num = 5
 # url关键词黑名单
 url_keywords_blacklist = []
 # 忽略的关键词，比如在demo.txt中配置广东珠江,但在订阅中只有广东珠江高清,就需要忽略掉"高清"
