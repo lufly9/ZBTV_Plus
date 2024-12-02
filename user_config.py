@@ -7,7 +7,7 @@ response_time_weight = 0.5
 resolution_weight = 0.5
 
 # 每个频道直播源数量
-zb_urls_limit = 5
+zb_urls_limit = 6
 
 # 最大协程数
 max_concurrent_tasks = 10
@@ -23,8 +23,8 @@ ffmpeg_time = 10
 # key: 地区，在http://tonkiang.us网站上搜索的关键词
 # value: 订阅url，在https://github.com/xisohi/IPTV-Multicast-source中找自己想要的
 search_dict = {
-    "四川": "https://raw.githubusercontent.com/lufly9/Y/refs/heads/main/四川电信订阅.txt",
-    "北京": "https://raw.githubusercontent.com/lufly9/Y/refs/heads/main/北京联通订阅.txt"
+    "四川省": "https://raw.githubusercontent.com/lufly9/Y/refs/heads/main/四川电信订阅.txt",
+    "北京市": "https://raw.githubusercontent.com/lufly9/Y/refs/heads/main/北京联通订阅.txt"
 }
 # 在http://tonkiang.us网站上搜索的源的页数
 search_page_num = 5
@@ -33,7 +33,7 @@ url_keywords_blacklist = []
 # 忽略的关键词，比如在demo.txt中配置广东珠江,但在订阅中只有广东珠江高清,就需要忽略掉"高清"
 search_ignore_key = ["高清"]
 # crawl_type的默认值为1-只爬取http://tonkiang.us上组播源；2-只爬取crawl_urls中配置的网站；3-全部
-crawl_type = "1"
+crawl_type = "3"
 # 收集其他大佬url中的直播源
 crawl_urls = [
     "https://raw.githubusercontent.com/lufly9/Y/refs/heads/main/轮播.txt"
