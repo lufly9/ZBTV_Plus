@@ -3,14 +3,14 @@
 卫视频道,#genre#
 
 轮播,#genre#
-许三多,https://goodiptv.club/douyu/10348728
 许三多,http://maomao.kandiantv.cn/douyu1.php?id=10348728
+许三多,https://goodiptv.club/douyu/10348728
 许三多,http://b.huangfeiyan.top:35455/douyu/10348728
-滇西小哥,https://goodiptv.club/douyu/3243427
 滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
+滇西小哥,https://goodiptv.club/douyu/3243427
 滇西小哥,http://b.huangfeiyan.top:35455/douyu/3243427
-老高与小茉,https://goodiptv.club/douyu/236461
 老高与小茉,http://maomao.kandiantv.cn/douyu1.php?id=236461
+老高与小茉,https://goodiptv.club/douyu/236461
 老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 铁齿铜牙纪晓岚,https://goodiptv.club/huya/11342396
@@ -30,8 +30,8 @@
 康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
 康熙微服私访记,https://goodiptv.club/huya/11342418
 康熙微服私访记,http://b.huangfeiyan.top:35455/huya/11342418
-家有儿女,https://goodiptv.club/huya/29915635
 家有儿女,http://cfss.cc/cdn/hy/29915635.flv
+家有儿女,https://goodiptv.club/huya/29915635
 家有儿女,http://b.huangfeiyan.top:35455/huya/29915635
 神探狄仁杰,http://cfss.cc/cdn/hy/11342425.flv
 神探狄仁杰,https://goodiptv.club/huya/11342425
