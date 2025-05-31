@@ -3,8 +3,8 @@
 卫视频道,#genre#
 
 轮播,#genre#
-许三多,http://maomao.kandiantv.cn/douyu1.php?id=10348728
 许三多,https://goodiptv.club/douyu/10348728
+许三多,http://maomao.kandiantv.cn/douyu1.php?id=10348728
 许三多,http://b.huangfeiyan.top:35455/douyu/10348728
 滇西小哥,https://goodiptv.club/douyu/3243427
 滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
@@ -12,8 +12,8 @@
 老高与小茉,https://goodiptv.club/douyu/236461
 老高与小茉,http://maomao.kandiantv.cn/douyu1.php?id=236461
 老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
-铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 铁齿铜牙纪晓岚,https://goodiptv.club/huya/11342396
+铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
 地下交通站,https://goodiptv.club/huya/11342433
 地下交通站,http://cfss.cc/cdn/hy/11342433.flv
@@ -51,8 +51,8 @@
 林正英,http://cfss.cc/cdn/hy/11342421.flv
 林正英,https://goodiptv.club/huya/11342421
 林正英,http://b.huangfeiyan.top:35455/huya/11342421
-虎牙影院,https://goodiptv.club/huya/11601968
 虎牙影院,http://cfss.cc/cdn/hy/11601968.flv
+虎牙影院,https://goodiptv.club/huya/11601968
 虎牙影院,http://b.huangfeiyan.top:35455/huya/11601968
 动物世界记录,http://cfss.cc/cdn/hy/29886283.flv
 动物世界记录,https://goodiptv.club/huya/29886283
