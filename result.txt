@@ -3,8 +3,8 @@
 卫视频道,#genre#
 
 轮播,#genre#
-许三多,http://maomao.kandiantv.cn/douyu1.php?id=10348728
 许三多,https://goodiptv.club/douyu/10348728
+许三多,http://maomao.kandiantv.cn/douyu1.php?id=10348728
 许三多,http://b.huangfeiyan.top:35455/douyu/10348728
 滇西小哥,https://goodiptv.club/douyu/3243427
 滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
